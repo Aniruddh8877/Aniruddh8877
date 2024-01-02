@@ -13,7 +13,6 @@
 - <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aniruddh8877&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div
-  
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aniruddh_8877) 
 
@@ -24,7 +23,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=Aniruddh8877&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aniruddh8877&theme=dark&hide_border=false)<br/>
 
-[![](https://visitcount.itsvg.in/api?id=Aniruddh8877&icon=0&color=0)](https://visitcount.itsvg.in)
+  ![](https://komarev.com/ghpvc/?username=your-github-Aniruddh8877)
+<!---[![](https://visitcount.itsvg.in/api?id=Aniruddh8877&icon=0&color=0)](https://visitcount.itsvg.in)--->
   
 ---
 ## 🏆 GitHub Trophies
