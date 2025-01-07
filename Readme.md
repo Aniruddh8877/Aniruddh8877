@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning BCA
 - 💞️ I’m looking to collaborate on groups intrested in knowing th techy world
 - 📫 How to reach me sharmaaniruddh811@gmail.com
+- 📫 How to reach me aniruddhsharma8877@gmail.com
 - <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aniruddh8877&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div
