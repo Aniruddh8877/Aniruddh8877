@@ -5,7 +5,7 @@
 </h1>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="8" />
 
-<!--- 👋 Hi,I’m <h1>ANIRUDDH <h1>-->
+<!--- 👋 Hi,I’m <h1> <h1>-->
 - 👀 I’m interested in coding with collaborations and with my codemates.
 - 🌱 I’m currently learning BCA
 - 💞️ I’m looking to collaborate on groups intrested in knowing th techy world
