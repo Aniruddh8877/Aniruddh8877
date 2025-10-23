@@ -149,8 +149,9 @@ const aniruddh = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aniruddh8877&repo=your-best-repo&theme=tokyonight)](https://github.com/Aniruddh8877/your-best-repo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aniruddh8877&repo=another-great-repo&theme=tokyonight)](https://github.com/Aniruddh8877/another-great-repo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aniruddh8877&repo=Aniruddh8877&theme=tokyonight)](https://github.com/Aniruddh8877/Aniruddh8877/blob/main/Readme.md)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aniruddh8877&repo=my-portfolio&theme=tokyonight)](https://github.com/Aniruddh8877/my-portfolio/blob/main/README.md)
+
 
 </div>
 
